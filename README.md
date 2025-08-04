@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases who I am as a T
 
 ## 🚀 Live Site
 You can view the live version of the site here:  
-➡️ [https://jolene-jebet.github.io/Portfolio/](https://jolene-jebet.github.io/Portfolio/)
+➡️ [ https://jolene-jebet.github.io/Personal-Portfolio/]( https://jolene-jebet.github.io/Personal-Portfolio/)
 
 ## 📁 Project Structure
 
